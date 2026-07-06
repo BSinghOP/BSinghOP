@@ -28,13 +28,6 @@ I spend most of my time on full-stack side projects — React on the front, Node
 - 1st Prize — College Science Project Expo
 - Operate a Minecraft network sustaining 1000+ concurrent player peaks
 
-### 📈 Stats
-
-![Bibekpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=BSinghOP&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BSinghOP&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 > Currently figuring out the next build. Probably something with realtime, probably something I'll regret deploying on a Friday.
-
-<!-- profile -->
