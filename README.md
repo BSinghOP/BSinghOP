@@ -36,3 +36,5 @@ I spend most of my time on full-stack side projects — React on the front, Node
 ---
 
 > Currently figuring out the next build. Probably something with realtime, probably something I'll regret deploying on a Friday.
+
+<!-- profile -->
