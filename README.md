@@ -11,7 +11,7 @@ I spend most of my time on full-stack side projects — React on the front, Node
 ### 🔭 What I'm working on
 
 - **[Kronex](https://github.com/BSinghOP/Kronex)** — Local-first AI cybersecurity learning copilot. Runs fully offline on Ollama, explains tool output, and coaches through authorized CTFs. `React · Node · Ollama · RAG`
-- **[Battle Pie](https://battlepie.net)** — Production Minecraft network. Pterodactyl + Wings on Debian, load-balanced proxy fleet, Cloudflare Spectrum DDoS mitigation. In-game admin, plugin dev, infra operator.
+- **[Battle Pie](https://battlepie.net)** — Production Minecraft network. Pterodactyl + Wings on Debian, load-balanced proxy fleet, Cloudflare Spectrum DDoS mitigation. Former in-game admin, plugin dev & infra operator (2023–2026).
 - **[BSingh's Vault](https://dbms.bsingh.dev)** — Full-stack bank management system. Auth with freeze enforcement, transaction history, admin panel. `React · Node · MySQL · Nginx · PM2`
 
 ### 🧰 Tech
